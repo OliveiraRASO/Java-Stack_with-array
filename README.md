@@ -10,5 +10,6 @@ Class has:
 - Push();
 - Pop();
 - Stack size();
+- Show stack elements();
 - Reverse math expression();
 methods
